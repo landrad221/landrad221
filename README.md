@@ -26,7 +26,7 @@ I'm **Lucas Andrade**, a developer interested in solving real-world problems wit
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,php,cpp,lua,sql&perline=7)
+![Languages](https://skillicons.dev/icons?i=js,python,php,cpp,lua,sql&perline=7)
 
 **Frameworks & tools**
 
